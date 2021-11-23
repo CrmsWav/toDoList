@@ -1,6 +1,6 @@
 # ToDoList
 
-## In todo :
+## In client :
 
 - yarn install
 - yarn start
